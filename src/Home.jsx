@@ -78,7 +78,7 @@ function Home() {
           <h3>CUSTOMERS</h3>
           <BsPeopleFill className='card_icon'/>
         </div>
-        <h1>44</h1>
+        <h1>47</h1>
         </div>
         <div className='card'>
 
